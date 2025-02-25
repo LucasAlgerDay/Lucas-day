@@ -1,23 +1,23 @@
 # Lucas Alger Day 💻
 
-¡Bienvenido/a a mi perfil de GitHub! Estudiante de Ingeniería en Desarrollo y Gestión de Software apasionado por la tecnología y el aprendizaje continuo.
+Welcome to my GitHub profile! I am a Software Development and Management Engineering student passionate about technology and continuous learning.
 
 ---
 
-## 📚 Educación
+## 📚 Education
 
-| **Institución/Certificación**          | **Período**           | **Logros**                                                                 |
-|----------------------------------------|-----------------------|----------------------------------------------------------------------------|
-| **TSU en Desarrollo de Software (UTCJ)** | 2021-01-07 - Actual   | 🏅 Alto rendimiento académico<br>🔍 Autodidacta con adaptación rápida a tecnologías |
-| **CISCO IT Essentials**                | 2022-04-15 – 2022-08-25 | 🖥️ Gestión de hardware/software<br>🔧 Mantenimiento avanzado de sistemas           |
-| **Cisco NDG Linux Essentials**         | 2022-01-07 – 2022-04-07 | 🐧 Dominio de comandos Linux<br>⚙️ Configuración de sistemas operativos             |
-| **CISCO CCNAV7: Redes**                | 2022-08-25 – 2021-12-10 | 🌐 Administración de redes<br>🛠️ Configuración de infraestructura empresarial       |
+| **Institution/Certification**          | **Period**           | **Achievements**                                                              |
+|----------------------------------------|----------------------|-------------------------------------------------------------------------------|
+| **TSU in Software Development (UTCJ)** | 2021-01-07 - Present | 🏅 High academic performance<br>🔍 Self-taught with rapid adaptation to technologies |
+| **CISCO IT Essentials**                | 2022-04-15 – 2022-08-25 | 🖥️ Hardware/software management<br>🔧 Advanced system maintenance               |
+| **Cisco NDG Linux Essentials**         | 2022-01-07 – 2022-04-07 | 🐧 Mastery of Linux commands<br>⚙️ Operating system configuration              |
+| **CISCO CCNAV7: Networks**             | 2022-08-25 – 2021-12-10 | 🌐 Network administration<br>🛠️ Enterprise infrastructure configuration        |
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-### 🗃️ Bases de Datos
+### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -38,31 +38,32 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🔌 Sistemas & Redes
+### 🔌 Systems & Networks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-Expert-009688?style=flat&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Expert-009688?style=flat&logo=cisco&logoColor=white)
 
 ---
 
-## 📊 Dominio Técnico
+## 📊 Technical Proficiency
 
-| **Categoría**       | **Tecnologías**                                                                 | **Nivel**           |
-|----------------------|---------------------------------------------------------------------------------|---------------------|
-| **Bases de Datos**   | MongoDB, MySQL, SQL Server                                                      | ⭐⭐⭐⭐⚡ (85%)      |
-| **Backend**          | Python, Java, C#, PHP                                                           | ⭐⭐⭐⭐ (80%)       |
-| **Frontend**         | HTML/CSS, Angular, Ionic                                                        | ⭐⭐⭐⚡ (75%)       |
-| **Sistemas Operativos** | Linux, Ubuntu, Windows                                                          | ⭐⭐⭐⭐⭐ (90%)     |
-| **Redes**            | Cisco CCNA, Switches, Configuración de Routers                                  | ⭐⭐⭐⭐⚡ (88%)     |
+| **Category**         | **Technologies**                                                              | **Level**        |
+|----------------------|------------------------------------------------------------------------------|-----------------|
+| **Databases**        | MongoDB, MySQL, SQL Server                                                  | ⭐⭐⭐⭐⚡ (85%) |
+| **Backend**          | Python, Java, C#, PHP                                                       | ⭐⭐⭐⭐ (80%)  |
+| **Frontend**         | HTML/CSS, Angular, Ionic                                                    | ⭐⭐⭐⚡ (75%)  |
+| **Operating Systems** | Linux, Ubuntu, Windows                                                     | ⭐⭐⭐⭐⭐ (90%) |
+| **Networking**       | Cisco CCNA, Switches, Router Configuration                                  | ⭐⭐⭐⭐⚡ (88%) |
 
 ---
 
-## 🌐 Administración de Redes
+## 🌐 Network Administration
 ```mermaid
 pie
-    title Habilidades Clave
-    "Virtualización de Servidores" : 35
-    "Configuración de Redes" : 30
-    "Seguridad Informática" : 25
-    "Automatización" : 10
+    title Key Skills
+    "Server Virtualization" : 35
+    "Network Configuration" : 30
+    "Cybersecurity" : 25
+    "Automation" : 10
+```
