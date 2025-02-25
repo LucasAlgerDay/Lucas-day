@@ -1,4 +1,4 @@
-# Lucas Alger Day 👨💻
+# Lucas Alger Day 💻
 
 ¡Bienvenido/a a mi perfil de GitHub! Estudiante de Ingeniería en Desarrollo y Gestión de Software apasionado por la tecnología y el aprendizaje continuo.
 
