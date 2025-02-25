@@ -51,8 +51,8 @@ Welcome to my GitHub profile! I am a Software Development and Management Enginee
 | **Category**         | **Technologies**                                                              | **Level**        |
 |----------------------|------------------------------------------------------------------------------|-----------------|
 | **Databases**        | MongoDB, MySQL, SQL Server                                                  | ⭐⭐⭐⭐⚡ (85%) |
-| **Backend**          | Python, Java, C#, PHP                                                       | ⭐⭐⭐⭐ (80%)  |
-| **Frontend**         | HTML/CSS, Angular, Ionic                                                    | ⭐⭐⭐⚡ (75%)  |
+| **Backend**          | Python, JavaScript, C#, PHP                                                 | ⭐⭐⭐⭐ (80%)  |
+| **Frontend**         | HTML/CSS, Angular, Ionic, React                                             | ⭐⭐⭐⚡ (75%)  |
 | **Operating Systems** | Linux, Ubuntu, Windows                                                     | ⭐⭐⭐⭐⭐ (90%) |
 | **Networking**       | Cisco CCNA, Switches, Router Configuration                                  | ⭐⭐⭐⭐⚡ (88%) |
 
